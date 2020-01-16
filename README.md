@@ -8,6 +8,7 @@
 
 <br />
 HaVoC Stake Pool is maintained by Petros Siatos
+<br/>
 Feel free to contact me :-)
 <a href="https://www.linkedin.com/in/petros-siatos/"><img src="linkedin.png" alt="LinkedIn" width="50" height="50"/></a>
 <a href="https://twitter.com/The_Unhandled"><img src="twitter.png" alt="Twitter" width="50" height="50"/></a>
