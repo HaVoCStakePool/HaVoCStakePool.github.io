@@ -3,7 +3,7 @@
 {:refdef}
 {:refdef: style="text-align: center;"}
 <img src="ada.jpg" alt="ADA" width="50" height="50"/> 3% Fee
-<img src="purple-heart.png" alt="Purple Heart" width="50" height="50"/> Cared With Love
+<img src="purple-heart.jpg" alt="Purple Heart" width="50" height="50"/> Cared With Love
 <img src="newspaper.png" alt="Newspaper" width="50" height="50"/>Stay Tuned <a href="https://twitter.com/HaVoCStakePool">@HaVoCStakePool<a>
 {:refdef}
 
